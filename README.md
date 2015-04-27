@@ -11,4 +11,4 @@ git push heroku master
 ```
 
 To log data,POST data to the url <app-name>.herokuapp.com/log
-The raw data gets logged walong with the timeStamp.
+The raw data gets logged along with the timeStamp.
